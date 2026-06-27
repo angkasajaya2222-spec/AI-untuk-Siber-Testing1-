@@ -1,0 +1,5 @@
+saved_models/ 
+data/ 
+logs/ 
+.env 
+__pycache__/ 
